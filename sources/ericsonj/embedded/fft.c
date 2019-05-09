@@ -8,5 +8,6 @@
 #include "stdlib.h"
 
 int fft(int value){
-	return (int)random()*10;
+	int res = (int)(random()*10);
+	return (res);
 }

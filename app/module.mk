@@ -1,1 +1,0 @@
-SRC += app/main.c
